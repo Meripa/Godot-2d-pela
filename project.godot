@@ -15,11 +15,6 @@ run/main_scene="uid://itit04rejstc"
 config/features=PackedStringArray("4.4", "GL Compatibility")
 config/icon="res://assets/icon.svg"
 
-[display]
-
-window/size/viewport_width=600
-window/size/viewport_height=400
-
 [input]
 
 ui_left={
